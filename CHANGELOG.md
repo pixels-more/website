@@ -10,3 +10,6 @@
 - Kontaktadresse kontakt@pixelsandmore.de und Stand der Datenschutzerklärung eingetragen.
   Eine Adresse statt mehrerer, weil alles bei derselben Person ankommt; Aliase gehen später ohne
   Änderung an der Seite.
+- Impressum: DE329380257 als Umsatzsteuer-Identifikationsnummer (§ 27a UStG) ausgewiesen statt
+  als W-IdNr. Grund: Laut BZSt-Mitteilung ist die Nummer beides; die USt-IdNr. ist die übliche
+  Angabe und braucht kein Unterscheidungsmerkmal (-00001).

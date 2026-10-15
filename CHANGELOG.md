@@ -14,3 +14,5 @@
   als W-IdNr. Grund: Laut BZSt-Mitteilung ist die Nummer beides; die USt-IdNr. ist die übliche
   Angabe und braucht kein Unterscheidungsmerkmal (-00001).
 - Impressum: Begründung für die Büroanschrift als Quelltext-Kommentar festgehalten.
+- Startseite: Der Buy-me-a-Coffee-Link öffnet in einem neuen Tab (`rel="noopener"`), damit die
+  Seite offen bleibt.

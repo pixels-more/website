@@ -13,3 +13,4 @@
 - Impressum: DE329380257 als Umsatzsteuer-Identifikationsnummer (§ 27a UStG) ausgewiesen statt
   als W-IdNr. Grund: Laut BZSt-Mitteilung ist die Nummer beides; die USt-IdNr. ist die übliche
   Angabe und braucht kein Unterscheidungsmerkmal (-00001).
+- Impressum: Begründung für die Büroanschrift als Quelltext-Kommentar festgehalten.
